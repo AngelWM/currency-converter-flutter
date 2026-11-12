@@ -1,0 +1,17 @@
+# Flutter/Dart build output and local caches
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+build/
+coverage/
+
+# Editor and operating-system files
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+
+# Local settings and generated private files
+*.log
