@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a simple currency converter developed using Flutter and Dart as part of software engineering practice. The application allows users to enter an amount, choose a source currency and a target currency, and instantly view the converted value.
+This project is a simple currency converter developed using Flutter and Dart. The application allows users to enter an amount, choose a source currency and a target currency, and instantly view the converted value.
 
 The application uses a small set of predefined exchange rates stored locally within the project, allowing conversions to be performed without an internet connection or external API.
 
@@ -114,9 +114,7 @@ Several design choices were made to improve usability:
 ## Limitations
 
 - Exchange rates are fixed and do not update in real time.
-- The application is intended for demonstration and learning purposes.
 - No historical exchange\-rate data is provided.
-- No financial transactions can be performed using the application.
 
 ## Repository
 
